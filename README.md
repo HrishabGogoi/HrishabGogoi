@@ -1,4 +1,4 @@
-[![MasterHead(https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)]
+[![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)]
 <h1 align="center">Hi 👋, I'm Hrishab Gogoi</h1>
 <h3 align="center">| Coding the future with Arduino & Robotics | Head in the stars, hands on the code|</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/42048/screenshots/8350927/media/23289b76ac7353ad4f0d0619ce6e9f2d.gif">
